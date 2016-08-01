@@ -9,5 +9,6 @@ public class Test01
 		System.out.println("github 回复01");
 		System.out.println("github 回复02");
 		System.out.println("hello,github服务器03");
+		System.out.println("test fork and pull request");  //测试
 	}
 }
